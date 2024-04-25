@@ -1,5 +1,5 @@
 # AutoRadAI
-Reimagining Diagnosis with AutoRadAI: A Journey through One Thousand and One Patients' Pathology-Infused MRI in the Realm of Prostate Cancer
+Reimagining Prostate Cancer Diagnosis: Multi-Modal Deep Learning in AutoRadAI's Pathology-Infused MRI Journey of One Thousand and One Patients
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
