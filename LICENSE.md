@@ -9,7 +9,7 @@ All rights reserved.
 
 Anyone who wishes to share, reuse, remix, or adapt this material must obtain permission from the corresponding author.
 
-![No Reuse/Adaptation Without Permission]([https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cc-by-nd_icon.svg/120px-Cc-by-nd_icon.svg.png](https://en.m.wikipedia.org/wiki/File:Cc_by-nd_icon.svg))
+![No Reuse/Adaptation Without Permission](https://upload.wikimedia.org/wikipedia/commons/1/18/Cc_by-nd_icon.svg)
 
 
 ## Disclaimer
