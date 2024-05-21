@@ -19,7 +19,7 @@ The GitHub repository for AutoRadAI offers a comprehensive resource to both expe
 
 ## License
 
-This project is licensed under a custom license. Anyone who wishes to share, reuse, remix, or adapt this material must obtain permission from the corresponding author. For more details, see the [LICENSE](LICENSE.txt) file.
+This project is licensed under a custom license. Anyone who wishes to share, reuse, remix, or adapt this material must obtain permission from the corresponding author. For more details, see the [LICENSE](LICENSE.md) file.
 
 
 🛰️ **Citation Request:** If you find the contents and tools in this repository valuable for your work, we kindly request that you cite it in your research or project. Your citation helps acknowledge the effort put into creating and maintaining these AI-driven resources.
