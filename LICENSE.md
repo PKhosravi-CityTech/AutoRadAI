@@ -6,7 +6,7 @@ All rights reserved.
 
 ## No Reuse/Adaptation Without Permission
 
-Anyone who wishes to share, reuse, remix, or adapt this material must obtain permission from the corresponding author.
+Anyone who wishes to share, reuse, remix, or adapt this material must obtain permission from the corresponding author @ pkhosravi@citytech.cuny.edu
 
 ![No Reuse/Adaptation Without Permission](https://upload.wikimedia.org/wikipedia/commons/b/b0/Copyright.svg)
 
