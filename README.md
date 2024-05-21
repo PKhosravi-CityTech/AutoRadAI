@@ -17,6 +17,11 @@ We present a novel DL strategy that utilizes lightweight CNNs for the effective 
 
 The GitHub repository for AutoRadAI offers a comprehensive resource to both experts and beginners in the field of deep learning and radiology image analysis. Notably, the repository includes a meticulously crafted Colab file, complete with step-by-step instructions. This feature empowers even those new to deep learning to confidently navigate through the process of training the model. With a user-friendly approach, the Colab file serves as a valuable guide, enabling beginners to embark on a successful journey of model training without unnecessary complexities. Whether you're an experienced practitioner or a novice eager to explore the world of deep learning, the AutoRadAI GitHub repository equips you with the tools and guidance needed to harness the power of this innovative algorithm effectively.
 
+## License
+
+This project is licensed under a custom license. Anyone who wishes to share, reuse, remix, or adapt this material must obtain permission from the corresponding author. For more details, see the [LICENSE](LICENSE.txt) file.
+
+
 🛰️ **Citation Request:** If you find the contents and tools in this repository valuable for your work, we kindly request that you cite it in your research or project. Your citation helps acknowledge the effort put into creating and maintaining these AI-driven resources.
 
 📚 **How to Cite:** When referencing this repository, please use the following citation format:
