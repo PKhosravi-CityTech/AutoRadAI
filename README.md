@@ -2,7 +2,7 @@
 Reimagining Prostate Cancer Diagnosis: Multi-Modal Deep Learning in AutoRadAI's Pathology-Infused MRI Journey of One Thousand and One Patients
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/license/apache-2-0)
 [![Python Version](https://img.shields.io/badge/python-3.10.12-red.svg)](https://www.python.org/downloads/release/python-31012/)
 [![PyTorch Version](https://img.shields.io/badge/PyTorch-1.9.0-green.svg)](https://pytorch.org/get-started/locally/)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/PKhosravi-CityTech/AutoRadAI/blob/main/)
