@@ -26,7 +26,7 @@ This project is licensed under a custom license. Anyone who wishes to share, reu
 
 📚 **How to Cite:** When referencing this repository, please use the following citation format:
 
-> *AutoRadAI*, BioMind AI Lab, Department of Biological Sciences, New York City College of Technology, CUNY, New York City, NY, USA. Biology and Computer Science Departments, The CUNY Graduate Center, City University of New York, New York City, NY, USA. Released in 2024. [Link to Repository](https://github.com/PKhosravi-CityTech/AutoRadAI)
+> *AutoRadAI*, Pegah Khosravi, Shady Saikali, Abolfazl Alipour, Saber Mohammadi, Max Boger, Dalanda M. Diallo, Christopher Smith, Marcio Covas Moschovas, Iman Hajirasouliha, Andrew J. Hung, Srirama S. Venkataraman, Vipul Patel. Deep Learning Enhances Detection of Extracapsular Extension in Prostate Cancer from mpMRI of 1001 Patients. May 21, 2024. doi: https://doi.org/10.1101/2024.05.21.24307691. [Link to Repository](https://github.com/PKhosravi-CityTech/AutoRadAI)
 
 Thank you for contributing to the advancement of AI and research. 🤖
 
