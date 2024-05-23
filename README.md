@@ -26,7 +26,7 @@ This project is licensed under a custom license. Anyone who wishes to share, reu
 
 📚 **How to Cite:** When referencing this repository, please use the following citation format:
 
-> Pegah Khosravi, Shady Saikali, Abolfazl Alipour, Saber Mohammadi, Max Boger, Dalanda M. Diallo, Christopher Smith, Marcio Covas Moschovas, Iman Hajirasouliha, Andrew J. Hung, Srirama S. Venkataraman, Vipul Patel. Deep Learning Enhances Detection of Extracapsular Extension in Prostate Cancer from mpMRI of 1001 Patients. MedRxiv 2024. DOI: https://www.medrxiv.org/content/10.1101/2024.05.21.24307691v1
+> Pegah Khosravi, Shady Saikali, Abolfazl Alipour, Saber Mohammadi, Max Boger, Dalanda M. Diallo, Christopher Smith, Marcio Covas Moschovas, Iman Hajirasouliha, Andrew J. Hung, Srirama S. Venkataraman, Vipul Patel. Deep Learning Enhances Detection of Extracapsular Extension in Prostate Cancer from mpMRI of 1001 Patients. MedRxiv 2024. DOI:10.1101/2024.05.21.24307691
 
 Thank you for contributing to the advancement of AI and research. 🤖
 
