@@ -29,6 +29,7 @@ This project is licensed under a custom license. Anyone who wishes to share, reu
 > Khosravi P, Saikali S, Alipour A, Mohammadi S, Boger M, Diallo DM, Smith C, Moschovas MC, Hajirasouliha I, Hung AJ, Venkataraman SS, Patel V. Deep Learning Enhances Detection of Extracapsular Extension in Prostate Cancer from mpMRI of 1001 Patients. medRxiv (2024): 2024-05. DOI:10.1101/2024.05.21.24307691
 
 Thank you for contributing to the advancement of AI and research. 🤖
+![image](https://github.com/user-attachments/assets/457befc2-f904-4c2d-be81-fb6006faec2c)
 
 
 
