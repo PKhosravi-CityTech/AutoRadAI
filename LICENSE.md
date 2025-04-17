@@ -2,13 +2,13 @@
 
 © 2024 Pegah Khosravi, PhD
 
-All rights reserved.
+This work is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
+You are free to **share** (copy and redistribute) and **adapt** (remix, transform, build upon) this material, **as long as**:
+- Proper **attribution** is given
+- It is **not used for commercial purposes**
 
-## No Reuse/Adaptation Without Permission
-
-Anyone who wishes to share, reuse, remix, or adapt this material must obtain permission from the corresponding author @ pkhosravi{at}citytech.cuny.edu
-
-![No Reuse/Adaptation Without Permission](https://upload.wikimedia.org/wikipedia/commons/b/b0/Copyright.svg)
+![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)  
+[View full license](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Disclaimer
 
