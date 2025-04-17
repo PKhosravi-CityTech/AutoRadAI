@@ -1,6 +1,6 @@
 # License
 
-© 2024 Pegah Khosravi, PhD
+© 2025 Pegah Khosravi, PhD
 
 This work is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
 You are free to **share** (copy and redistribute) and **adapt** (remix, transform, build upon) this material, **as long as**:
