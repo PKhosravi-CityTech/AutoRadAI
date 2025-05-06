@@ -26,11 +26,9 @@ This project is licensed under a custom license. Anyone who wishes to share, reu
 
 📚 **How to Cite:** When referencing this repository, please use the following citation format:
 
-> Khosravi P, Saikali S, Alipour A, Mohammadi S, Boger M, Diallo DM, Smith C, Moschovas MC, Hajirasouliha I, Hung AJ, Venkataraman SS, Patel V. Deep Learning Enhances Detection of Extracapsular Extension in Prostate Cancer from mpMRI of 1001 Patients. medRxiv (2024): 2024-05. DOI:10.1101/2024.05.21.24307691
+> Khosravi, P., Saikali, S., Alipour, A., Mohammadi, S., Boger, M., Diallo, D. M., Smith, C., Moschovas, M. C., Hajirasouliha, I., Hung, A. J., Venkataraman, S. S., & Patel, V. (2025). AutoRadAI: A versatile artificial intelligence framework validated for detecting extracapsular extension in prostate cancer. Biology Methods and Protocols, bpaf032. https://doi.org/10.1093/biomethods/bpaf032
 
 Thank you for contributing to the advancement of AI and research. 🤖
-
-![image](https://github.com/user-attachments/assets/457befc2-f904-4c2d-be81-fb6006faec2c)
 
 
 
