@@ -19,8 +19,7 @@ You are free to:
 
 ## Patent Notice
 
-This software includes methods disclosed in **U.S. Provisional Patent Application No. 63/643,711**,  
-filed on **May 7, 2024**, titled **“Deep Learning Method for Prostate Cancer Diagnosis”**, with **Pegah Khosravi** as the first named inventor.
+This software includes methods disclosed in **U.S. Provisional Patent Application No. 63/643,711**, filed on **May 7, 2024**, titled **“Deep Learning Method for Prostate Cancer Diagnosis”**, with **Pegah Khosravi** as the first named inventor.
 
 **Commercial use, reproduction, or distribution is strictly prohibited without prior written permission** from the Research Foundation of the City University of New York.
 
